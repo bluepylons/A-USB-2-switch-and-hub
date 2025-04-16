@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A-USB-2-switch-and-hub")(type "KiCad")(uri "${KIPRJMOD}/Libraries/A-USB-2-switch-and-hub-footprints.pretty")(options "")(descr ""))
+)
